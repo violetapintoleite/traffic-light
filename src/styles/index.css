@@ -21,14 +21,18 @@ button{
     border: none;
 }
 
-.red{
+#red{
     background: rgb(220, 41, 41);
 }
 
-.yellow{
+#yellow{
     background: rgb(255, 183, 0);
 }
 
-.green{
+#green{
     background: rgb(28, 188, 28);
+}
+
+.glow{
+    border: 10px solid yellow;
 }
